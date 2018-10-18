@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    background-color: gray;
+    width: 100%;
+    text-align: center;
+}
+           h1{
+                padding-top: 100px;
+                color: orange;
+                letter-spacing: 5px;
+                font-size: 50px;
+                text-align: center;
+            }
+            .b{
+                margin-top: 100px;
+                background-color: white;
+                height: 150px;
+                width: 100%;
+            }
+            .denglu{
+                width:300px;
+                margin-left: 500px;
+                padding:40px;
+                font-size:20px;
+                letter-spacing: 2px;
+            }
+            .butt{
+                position: absolute;
+                top: 335px;
+                left: 840px;
+            }
+            .btn{
+            margin-left: 30px;
+            background-color: orange;
+            color: white;
+            height: 60px;
+            }            
+            .banquan{
+                text-align: center;
+                margin-top: 30px;
+                color: white;
+                font-size: 10px;
+            }
+            #name,#number{
+                color: #999;
+            }
+
